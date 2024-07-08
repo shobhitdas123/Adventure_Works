@@ -42,6 +42,9 @@ In this project, we utilized Power BI and its suite of tools to transform Advent
 
 Our use of Power BI delivered crucial data insights that supported Adventure Works in enhancing product sales, expanding business operations, and optimizing customer satisfaction. By leveraging advanced analytics and visualization, we empowered stakeholders with actionable insights for informed decision-making.
 
+##Project Screenshots
+
+![Alt text](relative/path/to/image.png)
 ---
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com) to learn more about this project and explore the code and visualizations on [GitHub](https://github.com/yourusername/adventure-works-power-bi).
