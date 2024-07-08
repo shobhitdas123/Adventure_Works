@@ -44,7 +44,7 @@ Our use of Power BI delivered crucial data insights that supported Adventure Wor
 
 ##Project Screenshots
 
-![Alt text](Images/Customer Detail.png)
+![Project ScreenShot](Images/Customer Detail.png)
 ---
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com) to learn more about this project and explore the code and visualizations on [GitHub](https://github.com/yourusername/adventure-works-power-bi).
